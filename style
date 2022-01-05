@@ -1,0 +1,36 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(172, 167, 167);
+}
+
+h1 {
+    text-align: center;
+    text: font size 14px;
+    text:font-weight: bold;
+    top: margin 15px;
+}
+
+img.octocat {
+    height: 150px;
+}
+
+.row{
+    display:flex;
+    justify-content:space-between;
+    background-color:rgb(23, 145, 145);
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.pink{
+    background-color:pink;
+    justify-content:space-around;
+}
+
+.blue{
+    background-color:blue;
+}
+
